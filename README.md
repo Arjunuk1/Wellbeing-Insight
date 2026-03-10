@@ -11,7 +11,7 @@ Wellbeing Insight is a fitness-focused web application built using HTML, CSS, an
 
 ## 🛠 Tech Stack
 - HTML(Hypertext markup language)
-- CSS
+- CSS(Cascadind style sheet)
 - JavaScript
 
 ## 🎯 Purpose
