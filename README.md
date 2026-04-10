@@ -1,6 +1,6 @@
 # Wellbeing Insight
 
-Wellbeing Insight is a fitness-focused web application built using HTML, CSS, and JavaScript. It allows users to input their body metrics and physique goals, and generates a personalized diet and workout recommendation to help them achieve their ideal body.
+Wellbeing Insight is a fitness-focused web application built using HTML, CSS, and JavaScript. It allows the users to input their body metrics and physique goals, and generates a personalized diet and workout recommendation to help them achieve their ideal body.
 
 ## 🚀 Features
 - User body profile input
