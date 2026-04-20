@@ -16,3 +16,4 @@ Wellbeing Insight is a fitness-focused web application built using HTML, CSS, an
 
 ## 🎯 Purpose
 This project was built to practice frontend development and implement real-world logic-based user interaction using JavaScript(js).
+This website gives the BMI of a person.
